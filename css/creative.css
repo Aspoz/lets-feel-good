@@ -51,6 +51,10 @@ p {
     line-height: 1.5;
 }
 
+.small-box {
+    margin-top: 10px;
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
